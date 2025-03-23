@@ -153,5 +153,4 @@ app.invoke({"messages": ["What is an Autonomous Agent?"]})
 ## 💡 **Contributing**
 Feel free to fork, modify, and submit PRs! 😊
 
-📩 Contact: *[Your Email/GitHub Profile]*
 
